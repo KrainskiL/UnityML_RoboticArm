@@ -66,7 +66,7 @@ Used architecture is the same as in [`ddpg-pendulum/DDPG.ipynb`](https://github.
 
 ## Plot of average score
 
-![Score](./img/Scores.png)
+![Score](https://github.com/KrainskiL/UnityML_RoboticArm/blob/master/img/Scores.PNG?raw=true)
 
 ```
 Episode 99	Average Score: 30.07	Score: 37.12
