@@ -3,7 +3,7 @@
 
 It's the second project for the Udacity Deep Reinforcement Learning Nanodegree. The goal is to teach robotic arm to touch revolving spheres. To achieve that [DDPG](https://arxiv.org/abs/1509.02971): Deep Deterministic Policy Gradient is used
 
-![Trained DDPG agents](./img/Arms.gif)
+![Trained DDPG agents](https://github.com/KrainskiL/UnityML_RoboticArm/blob/master/img/Arms.gif?raw=true)
 
 ## Environment description
 
@@ -26,8 +26,11 @@ For this project **Version 2** of the environment was used: 20 agents are used i
 2. Download custom Reacher environment (Unity ML-Agents env) prepared by Udacity
 
 Linux: [click here](https://s3-us-west-1.amazonaws.com/udacity-drlnd/P2/Reacher/Reacher_Linux.zip)
+
 Mac OSX: [click here](https://s3-us-west-1.amazonaws.com/udacity-drlnd/P2/Reacher/Reacher.app.zip)
+
 Windows (32-bit): [click here](https://s3-us-west-1.amazonaws.com/udacity-drlnd/P2/Reacher/Reacher_Windows_x86.zip)
+
 Windows (64-bit): [click here](https://s3-us-west-1.amazonaws.com/udacity-drlnd/P2/Reacher/Reacher_Windows_x86_64.zip)
 
 The file needs to placed in the root directory of this repository and unzipped.
